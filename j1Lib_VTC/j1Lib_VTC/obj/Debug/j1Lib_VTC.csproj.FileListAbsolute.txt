@@ -1,0 +1,10 @@
+C:\Users\j113203\Desktop\j1Lib\j1Lib_VTC\j1Lib_VTC\bin\Debug\j1Lib_VTC.dll
+C:\Users\j113203\Desktop\j1Lib\j1Lib_VTC\j1Lib_VTC\bin\Debug\j1Lib_VTC.pdb
+C:\Users\j113203\Desktop\j1Lib\j1Lib_VTC\j1Lib_VTC\bin\Debug\j1Lib_REST.dll
+C:\Users\j113203\Desktop\j1Lib\j1Lib_VTC\j1Lib_VTC\bin\Debug\j1Lib_REST.pdb
+C:\Users\j113203\Desktop\j1Lib\j1Lib_VTC\j1Lib_VTC\obj\Debug\j1Lib_VTC.csprojResolveAssemblyReference.cache
+C:\Users\j113203\Desktop\j1Lib\j1Lib_VTC\j1Lib_VTC\obj\Debug\j1Lib_VTC.dll
+C:\Users\j113203\Desktop\j1Lib\j1Lib_VTC\j1Lib_VTC\obj\Debug\j1Lib_VTC.pdb
+C:\Users\j113203\Desktop\j1Lib\j1Lib_VTC\j1Lib_VTC\bin\Debug\Newtonsoft.Json.dll
+C:\Users\j113203\Desktop\j1Lib\j1Lib_VTC\j1Lib_VTC\bin\Debug\Newtonsoft.Json.pdb
+C:\Users\j113203\Desktop\j1Lib\j1Lib_VTC\j1Lib_VTC\bin\Debug\Newtonsoft.Json.xml
